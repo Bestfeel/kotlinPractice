@@ -1,0 +1,25 @@
+{
+  "file": [
+    "README.md",
+    "lantern-installer-beta.dmg",
+    "ghc-7.10.3-r1.zip",
+    "shadowsocks-nightly-2.10.1.apk",
+    "CLion-1.2.4-custom-jdk-bundled.dmg",
+    "ShadowsocksX-2.6.3.dmg",
+    "apache-maven-3.0.5-bin.tar.gz",
+    "TeamCity-9.1.5.tar.gz",
+    "kibana4.sh",
+    "ubuntu-14.10-amd64.box",
+    "gradle-2.11-all.zip",
+    "lantern-installer-beta.apk",
+    "datagrip-1.0.1-custom-jdk-bundled.dmg",
+    "waterheater-streaming_2.10-1.0.jar",
+    "centos-6.6-x86_64.box",
+    "Boot2Docker-1.8.0.pkg",
+    "centos-7.0-x86_64.box",
+    "Shadowsocks-2.5.8.zip",
+    "micoe-solar-waterheater-streaming_2.10-1.0.jar",
+    "Shadowsocks-3.0.zip",
+    "hub-ring-bundle-1.0.770.zip"
+  ]
+}
